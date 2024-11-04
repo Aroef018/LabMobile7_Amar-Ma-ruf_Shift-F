@@ -20,3 +20,12 @@ Jika token ada dan valid, pengguna dapat mengakses halaman tersebut. Jika tidak 
 ### 6. Proses Logout
 Pada proses logout, aplikasi akan menghapus token dari localStorage untuk memastikan pengguna tidak dapat mengakses halaman yang dilindungi.
 Pengguna kemudian diarahkan ke halaman login setelah token dihapus.
+
+### Halaman Login
+![alt text](image.png)
+
+### Jika login gagal
+![alt text](image-1.png)
+
+### Halaman homepage
+![alt text](image-2.png)
